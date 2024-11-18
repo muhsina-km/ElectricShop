@@ -1,0 +1,12 @@
+.page-background {
+    background-color: #f0f2f5; 
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .card-background {
+    background-color: #ffffff; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
